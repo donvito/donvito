@@ -7,7 +7,7 @@ I'm Melvin aka ✨DonvitCodes✨, I am a Senior Software Engineer based in Singa
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to have developers share their Tech knowledge on my livestream
 - 📫 How to reach me: www.donvitocodes.com
-- ⚡ Fun fact: I livestream in Twitch! Please follow my channel! twitch.tv/donvitocodes and subscribe to my Youtube channel youtube.com/donvitocodes
+- ⚡ Fun fact: I livestream in Twitch! Please follow my channel! https://twitch.tv/donvitocodes and subscribe to my Youtube channel https://youtube.com/donvitocodes
 
 <!--
 **donvito/donvito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
