@@ -9,6 +9,9 @@ I'm Melvin aka ✨DonvitCodes✨, I am a Senior Software Engineer based in Singa
 - 📫 How to reach me: www.donvitocodes.com
 - ⚡ Fun fact: I livestream in Twitch! Please follow my channel! https://twitch.tv/donvitocodes and subscribe to my Youtube channel https://youtube.com/donvitocodes
 
+If you find my work here in Github useful or simply support me, you can
+<a href="https://www.buymeacoffee.com/melvindave" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important;width: 170px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>. Would really aprpeciate it!
+
 <!--
 **donvito/donvito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
