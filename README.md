@@ -5,7 +5,7 @@ I'm Melvin aka ✨DonvitCodes✨, I am a Senior Software Engineer based in Singa
 - 🔭 I’m currently using Golang, AWS and PostgreSQL in my work
 - ⚡ I’m playing around with OpenAI and LangChain
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on livestream guesting for those interested to share their Tech knowledge
 - 📫 How to reach me: www.donvitocodes.com
 - ⚡ Fun fact: I livestream in Twitch! Please follow my channel! twitch.tv/donvitocodes and subscribe to my Youtube channel youtube.com/donvitocodes
 
