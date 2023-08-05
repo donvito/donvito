@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi! 👋
+
+I'm Melvin aka ✨DonvitCodes✨, I am a Senior Software Engineer based in Singapore. I also livestream about Tech & Startups in Twitch. 
+
+- 🔭 I’m currently using Golang, AWS and PostgreSQL in my work
+- ⚡ I’m playing around with OpenAI and LangChain
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on ...
+- 📫 How to reach me: www.donvitocodes.com
+- ⚡ Fun fact: I livestream in Twitch! Please follow my channel! twitch.tv/donvitocodes and subscribe to my Youtube channel youtube.com/donvitocodes
 
 <!--
 **donvito/donvito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
