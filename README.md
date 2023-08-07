@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm Melvin! aka ✨DonvitCodes✨ I work as a Senior Software Engineer and I am living in Singapore. I also livestream about Tech & Startups in Twitch. 
+I'm Melvin! aka ✨DonvitoCodes✨ I work as a Senior Software Engineer and I am living in Singapore. I also livestream about Tech & Startups in Twitch. 
 
 - 🔭 I’m currently using Golang, AWS and PostgreSQL in my work
 - ⚡ I’m playing around with OpenAI and LangChain
