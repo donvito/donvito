@@ -4,7 +4,7 @@ I'm Melvin! aka ✨DonvitoCodes✨ I work as a Software Engineer and I am living
 
 - 🔭 I’m currently using Golang, AWS and PostgreSQL in my work
 - ⚡ I’m playing around with OpenAI and LangChain
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Frontend Development using Astro/NextJS
 - 👯 I’m looking to have developers share their Tech knowledge on my livestream
 - 📫 How to reach me: www.donvitocodes.com
 - ⚡ Fun fact: I livestream in Twitch! Please follow my channel! https://twitch.tv/donvitocodes and subscribe to my Youtube channel https://youtube.com/donvitocodes
