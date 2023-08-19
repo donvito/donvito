@@ -9,8 +9,9 @@ I'm Melvin! aka ✨DonvitoCodes✨ I work as a Software Engineer and I am living
 - 📫 How to reach me: www.donvitocodes.com
 - ⚡ Fun fact: I livestream in Twitch! Please follow my channel! https://twitch.tv/donvitocodes and subscribe to my Youtube channel https://youtube.com/donvitocodes
 
-If you find my work here in Github useful, you can support me via [Github Sponsors](https://github.com/sponsors/donvito) , or
-<a href="https://www.buymeacoffee.com/melvindave" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important;width: 170px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> <br/>
+If you find my work here in Github useful, you can support me via [Github Sponsors](https://github.com/sponsors/donvito) or...<br/><br/>
+<a href="https://www.buymeacoffee.com/melvindave" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 38px !important;width: 170px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a><br/>
+<br/>[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H6KAVUJ)<br/><br/>
 I would really appreciate the support!
 
 Cheers!
