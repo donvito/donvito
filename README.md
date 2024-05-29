@@ -1,13 +1,13 @@
 ### Hi! 👋
 
-I'm Melvin! aka ✨DonvitoCodes✨ I work as a Software Engineer and I am living in Singapore. I also livestream about Tech & Startups in Twitch. 
+I'm Melvin! aka ✨DonvitoCodes✨ I am a Filipino Software Engineer living in Singapore. I am a full-time content creator and freelance Software Engineer. I livestream about Tech, AI & Startups in Twitch. 
 
-- 🔭 I’m currently using Golang, AWS and PostgreSQL in my work
-- ⚡ I’m playing around with OpenAI and LangChain
-- 🌱 I’m currently learning Python and Frontend Development using Astro/NextJS
-- 👯 I’m looking to have developers share their Tech knowledge on my livestream
+- 🔭 I’m currently using Golang and PostgreSQL
+- ⚡ I’m working on Generative AI and familiar with OpenAI and LangChain
+- 🌱 I’m currently learning Python and Frontend Development using NextJS
+- 👯 I’m looking for developers who wants to share their Tech knowledge in my livestream
 - 📫 How to reach me: www.donvitocodes.com
-- ⚡ Fun fact: I livestream in Twitch! Please follow my channel! https://twitch.tv/donvitocodes and subscribe to my Youtube channel https://youtube.com/donvitocodes
+- ⚡ I livestream in Twitch! Please follow my channel! https://twitch.tv/donvitocodes and subscribe to my Youtube channel https://youtube.com/donvitocodes
 
 If you find my work useful, you can buy me a coffee...<br/><br/>
 <a href="https://www.buymeacoffee.com/donvitocodes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 38px !important;width: 170px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a><br/><br/>
