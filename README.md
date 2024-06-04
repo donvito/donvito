@@ -3,7 +3,7 @@
 I'm Melvin! aka ✨DonvitoCodes✨ I am a Filipino Software Engineer living in Singapore. I am a full-time content creator and freelance Software Engineer. I livestream about Tech, AI & Startups in Twitch. 
 
 - 🔭 I’m currently using Golang and Python in my projects
-- ⚡ I’m working on Generative AI and using OpenAI and LangChain
+- ⚡ I’m working on Generative AI using OpenAI and LangChain
 - 🌱 I’m currently learning Frontend Development using NextJS
 - 👯 I’m looking for developers who wants to share their Tech knowledge in my livestream
 - 📫 How to reach me: www.donvitocodes.com
