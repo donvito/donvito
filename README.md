@@ -5,7 +5,7 @@ I'm a Filipino software engineer living in Singapore. After working for around t
 - 🔭 I code with Go, Python and Generative AI. 
 - 🌱 I’m learning Web Development using React and NextJS so I can create products.
 - 📫 Here's my [website](donvitocodes.com) and my [blog](blog.donvitocodes.com).
-- ⚡ I livestream my coding in [Twitch](twitch.tv/donvitocodes) and [Youtube](youtube.com/donvitocodes).
+- ⚡ When I feel it, I livestream my coding in [Twitch](twitch.tv/donvitocodes) and [Youtube](youtube.com/donvitocodes).
 - 💬 I'm in [Twitter](x.com/donvito) too!
 
 You can support my work. 😊 <br/><br/>
