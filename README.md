@@ -1,6 +1,6 @@
 ### Hello, I'm Melvin! 👋
 
-I'm a Filipino software engineer living in Singapore. After working for around two decades, I decided to quit my job to build products and sell them.
+I'm a Filipino software engineer living in Singapore. 
 
 - 🔭 I code with Go, Python and Generative AI. 
 - 🌱 I’m learning Web Development using React and NextJS so I can create products.
