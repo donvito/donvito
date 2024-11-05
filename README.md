@@ -2,9 +2,8 @@
 
 I'm a Filipino Software Engineer living in Singapore. I usually hang out in [Twitter](https://x.com/donvito)
 
-- 🔭 I code with Go, Python and Generative AI and [blog](https://blog.donvitocodes.com) about it
-- 🌱 I’m learning React and NextJS right now
-- 📫 How to contact me? Visit my [website](https://donvitocodes.com) or [Linkedin](https://www.linkedin.com/in/melvinvivas/)
+- 🔭 I build apps using AI and [blog](https://blog.donvitocodes.com) about it
+- 📫 Connect with me at [website](https://donvitocodes.com) or [Linkedin](https://www.linkedin.com/in/melvinvivas/)
 - ⚡  I have some videos in [Youtube](https://youtube.com/donvitocodes)
 
 You can support my work 😊 <br/><br/>
