@@ -12,7 +12,7 @@ You can support my work 😊 <br/><br/>
 
 Cheers!
 
-[@DonvitoCodes](donvitocodes.com)
+[DonvitoCodes](https://donvitocodes.com)
 
 <!--
 **donvito/donvito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
