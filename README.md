@@ -2,8 +2,11 @@
 
 I'm a Filipino Software Engineer living in Singapore. I usually hang out in [Twitter](https://x.com/donvito)
 
-- 🔭 I build apps using AI and [blog](https://blog.donvitocodes.com) about it. 
-- 🌱 I recently launched [AI Dream Photo](https://www.aidreamphoto.com) which lets you create AI images with your face.
+Projects
+- ⚡ Currently building [AIBackends](https://github.com/donvito/ai-backends), an API server using Ollama and other providers
+- 🌱 I launched [AI Dream Photo](https://www.aidreamphoto.com) which lets you create AI images with your face.
+
+Socials
 - 📫 Connect with me at [website](https://donvitocodes.com) or [Linkedin](https://www.linkedin.com/in/melvinvivas/)
 - ⚡  I have some videos in [Youtube](https://youtube.com/donvitocodes)
 - 👯 I am also creating a live AI course for business and developers. More info in my [website](https://donvitocodes.com).
