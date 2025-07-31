@@ -3,7 +3,7 @@
 I'm a Filipino Software Engineer living in Singapore. I usually hang out in [Twitter](https://x.com/donvito)
 
 Projects
-- ⚡ Currently building [AIBackends](https://github.com/donvito/ai-backends), an API server using Ollama and other providers
+- ⚡ Currently building [AIBackends](https://github.com/donvito/ai-backends), an AI backend server with ready-to-use APIs integrated with Ollama, OpenAI and Anthropic.
 - 🌱 I launched [AI Dream Photo](https://www.aidreamphoto.com) which lets you create AI images with your face.
 
 Socials
