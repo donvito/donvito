@@ -2,7 +2,8 @@
 
 I'm a Filipino Software Engineer living in Singapore. I usually hang out in [Twitter](https://x.com/donvito)
 
-- ⚡ Currently building [AIBackends](https://github.com/donvito/ai-backends), an AI API server using LLMs with ready-to-use AI features.
+- 📝 Developing [Markdown Editor](https://github.com/donvito/markdown-editor), a lightweight markdown files editor with AI features
+- ⚡  Building [AIBackends](https://github.com/donvito/ai-backends), an AI API server using LLMs with ready-to-use AI features.
 - 🌱 I launched [AI Dream Photo](https://www.aidreamphoto.com) which lets you create AI images with your face.
 - 📫 Connect with me at [website](https://donvitocodes.com) or [Linkedin](https://www.linkedin.com/in/melvinvivas/)
 - ⚡  I have some videos in [Youtube](https://youtube.com/donvitocodes)
