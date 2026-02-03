@@ -1,6 +1,8 @@
 ### Hello, I'm Melvin! 👋
 
-I'm a Filipino Software Engineer living in Singapore. I usually hang out in [Twitter](https://x.com/donvito)
+I'm a Software Engineer living in Singapore. I usually hang out in [X](https://x.com/donvito). 
+
+My interests are AI Coding, LLMs and Agents.
 
 Here my projects
 - 📝 [Markdown Editor with AI](https://github.com/donvito/markdown-editor) supports local models with Ollama or LMStudio
