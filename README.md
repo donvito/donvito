@@ -1,6 +1,6 @@
 ### Hello, I'm Melvin! 👋
 
-I'm a Software Engineer using AI to build. I am also intereted in local LLMs and Agents.
+I'm a Software Engineer using AI to build. I am also interested in local LLMs and Agents.
 
 Here my projects
 - 📝 [Markdown Editor with AI](https://github.com/donvito/markdown-editor) supports local models with Ollama or LMStudio
