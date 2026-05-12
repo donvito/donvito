@@ -2,6 +2,18 @@
 
 I'm a Software Engineer building apps with AI. I'm especially interested in local LLMs, open models, and AI agents.
 
+### In verse
+
+Through circuits and sentences, curiosity flows—  
+local weights whisper the routes no map shows;  
+agents negotiate endpoints in orderly rows—  
+and backends keep rhythm wherever code goes.
+
+Markdown mornings, a marketplace of skill—  
+pipelines that stitch what intention fulfills—  
+I learn by the doing; I build by the will:  
+open models, bright agents, and coffee refills.
+
 Here are some of my projects:
 - 📝 [Markdown Editor with AI](https://github.com/donvito/markdown-editor) - a markdown editor with AI features that supports local models via Ollama and LM Studio
 - 🐍 [AIBackends](https://github.com/donvito/aibackends) - the next generation of AIBackends, rebuilt in Python to support more AI and ML pipelines
