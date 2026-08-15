@@ -1,6 +1,6 @@
 ### Hello, I'm Melvin! 👋
 
-I'm a Software Engineer building apps with AI. I'm especially interested in local LLMs, open models, and AI agents.
+I'm an AI Engineer. I specialise in building AI Agents, Local/Open-source models, and AI workflows.
 
 Here are some of my projects:
 - 📝 [Markdown Editor with AI](https://github.com/donvito/markdown-editor) - a markdown editor with AI features that supports local models via Ollama and LM Studio
