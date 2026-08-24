@@ -2,17 +2,17 @@
 
 I'm an AI Engineer. I specialise in building AI Agents, Local/Open-source models, and AI workflows.
 
-Here are some of my projects:
-- 📝 [Markdown Editor with AI](https://github.com/donvito/markdown-editor) - a markdown editor with AI features that supports local models via Ollama and LM Studio
-- 🐍 [AIBackends](https://github.com/donvito/aibackends) - the next generation of AIBackends, rebuilt in Python to support more AI and ML pipelines
-- 🌱 [AI Dream Photo](https://www.aidreamphoto.com) - create AI images with your face
-- 🎯 [SkillsBento](https://www.skillsbento.com) - a marketplace for AI agent skills for Claude Code and Cowork
-
-- ⚡ [AIBackends TS](https://github.com/donvito/ai-backends) - a typescript based AI API server with ready-to-use AI features (archived)
+Here are my active projects:
+- [Coworker](https://github.com/donvito/coworker) Local AI coworkers that use tools, run tasks, and get work done. Works with OpenRouter, OpenAI and locally via Ollama or LMStudio
+- [AIBackends Python](https://github.com/donvito/aibackends) - the next generation of AIBackends, rebuilt in Python to support more AI and ML pipelines
+- [AIBackends API server]([https://github.com/donvito/aibackends](https://github.com/donvito/ai-backends)) - API server for serving LLMs locally with Ollama/LM Studio, or in the cloud
+- [Markdown Editor w/ AI](https://github.com/donvito/markdown-editor) - a markdown editor with AI features that supports local models via Ollama and LM Studio
+- [AI Dream Photo](https://www.aidreamphoto.com) - create AI images with your face
+- [SkillsBento](https://www.skillsbento.com) - a marketplace for AI agent skills for Claude and Codex
 
 Connect with me:
-- 📫 [Website](https://donvitocodes.com) / [LinkedIn](https://www.linkedin.com/in/melvinvivas/)
-- ▶️ [YouTube](https://youtube.com/donvitocodes)
+- [DonvitoCodes.com](https://donvitocodes.com)
+- [LinkedIn](https://www.linkedin.com/in/melvinvivas/)
 
 You can support my work 😊
 
