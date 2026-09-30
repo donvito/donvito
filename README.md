@@ -20,7 +20,6 @@ Here are my active projects:
 - [CamelFlow](https://github.com/donvito/camel-flow) - Visual viewer for Apache Camel YAML routes and how they connect
 - [Notebooks](https://github.com/donvito/notebooks) - Colab notebooks for model fine-tuning and inference testing
 - [Markdown Editor w/ AI](https://github.com/donvito/markdown-editor) - Markdown editor with AI features
-- **Docker Templates ML** *(private)* - Docker templates for RunPod and other GPU hosting platforms
 - [Streamer Suite](https://github.com/donvito/streamer-suite) - Streaming tools and overlays
 - [SkillsBento](https://www.skillsbento.com) - Marketplace for AI agent skills for Claude and Codex
 - [AI Dream Photo](https://www.aidreamphoto.com) - Create AI images with your face
