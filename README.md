@@ -1,6 +1,6 @@
 ### Hello, I'm Melvin! 👋
 
-I'm an AI Engineer. I specialise in building AI agents, local/open-source models, AI workflows, and developer tools.
+I'm an AI Engineer building production-ready AI agents, workflows, local/open-source model systems, and developer tools.
 
 Here are my active projects:
 
