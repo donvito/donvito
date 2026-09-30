@@ -2,8 +2,6 @@
 
 I'm an AI Engineer building production-ready AI agents, workflows, local/open-source model systems, and developer tools.
 
-Here are my active projects:
-
 #### AI, Agents & Workflows
 - [AIBackends Python](https://github.com/donvito/aibackends) - Python library for building AI and ML pipelines and workflows
 - [AIBackends API Server](https://github.com/donvito/ai-backends) - API server for running LLMs locally with Ollama or LM Studio, or using cloud providers
