@@ -2,24 +2,31 @@
 
 I'm an AI Engineer building production-ready AI agents, workflows, local/open-source model systems, and developer tools.
 
-#### AI, Agents & Workflows
+#### AI Infrastructure & Local Models
 - [AIBackends Python](https://github.com/donvito/aibackends) - Python library for building AI and ML pipelines and workflows
 - [AIBackends API Server](https://github.com/donvito/ai-backends) - API server for running LLMs locally with Ollama or LM Studio, or using cloud providers
-- [AIBackends Workflows](https://github.com/donvito/aibackends-workflows) - AI workflow integrations built on Apache Camel
-- [Coworker](https://github.com/donvito/coworker) - Local AI coworkers that use tools, run tasks, and get work done
-- [Local Evals](https://github.com/donvito/local-evals) - Run AI evals locally using local models or any OpenAI-compatible API
 - [Open Model Server](https://github.com/donvito/open-model-server) - Self-hosted server for running local GGUF and ONNX models
-- [Agent Monitor](https://github.com/donvito/agent-monitor) - Visualizer for subagents and traces across Codex, Claude Code, Pi, and Hermes
-- [Jev Dev](https://github.com/donvito/jev-dev) - Tool for Jev testing and experiments
-- [Codex Astra Luna Orchestrator](https://github.com/donvito/codex-astra-luna-orchestrator) - Use Astra or Sol as the orchestrator and Luna for subagents in Codex
-- [Sidekick iOS](https://github.com/donvito/sidekick-ios) - Personal AI assistant for iPhone powered by a local Gemma 4 E2B model
 
-#### Developer Tools & Experiments
+#### Agents & Orchestration
+- [Coworker](https://github.com/donvito/coworker) - Local AI coworkers that use tools, run tasks, and get work done
+- [Agent Monitor](https://github.com/donvito/agent-monitor) - Visualizer for subagents and traces across Codex, Claude Code, Pi, and Hermes
+- [Codex Astra Luna Orchestrator](https://github.com/donvito/codex-astra-luna-orchestrator) - Use Astra or Sol as the orchestrator and Luna for subagents in Codex
+- [Pi Agent Council](https://github.com/donvito/pi-agent-council) - Pi extension for getting independent, read-only advice from multiple AI models
+- [SkillsBento](https://www.skillsbento.com) - Marketplace for AI agent skills for Claude and Codex
+
+#### Workflows & Automation
+- [AIBackends Workflows](https://github.com/donvito/aibackends-workflows) - AI workflow integrations built on Apache Camel
 - [CamelFlow](https://github.com/donvito/camel-flow) - Visual viewer for Apache Camel YAML routes and how they connect
+
+#### Evals & Model Development
+- [Local Evals](https://github.com/donvito/local-evals) - Run AI evals locally using local models or any OpenAI-compatible API
+- [Jev Dev](https://github.com/donvito/jev-dev) - Tool for Jev testing and experiments
 - [Notebooks](https://github.com/donvito/notebooks) - Colab notebooks for model fine-tuning and inference testing
+
+#### Apps & Developer Tools
+- [Sidekick iOS](https://github.com/donvito/sidekick-ios) - Personal AI assistant for iPhone powered by a local Gemma 4 E2B model
 - [Markdown Editor w/ AI](https://github.com/donvito/markdown-editor) - Markdown editor with AI features
 - [Streamer Suite](https://github.com/donvito/streamer-suite) - Streaming tools and overlays
-- [SkillsBento](https://www.skillsbento.com) - Marketplace for AI agent skills for Claude and Codex
 - [AI Dream Photo](https://www.aidreamphoto.com) - Create AI images with your face
 
 ### Websites
